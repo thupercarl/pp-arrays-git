@@ -15,3 +15,7 @@ function largest($y) {
     }
     echo "<p>largest value: $currentL</p>";
 }
+
+function removeDups($z) {
+    return array_unique($z);
+}

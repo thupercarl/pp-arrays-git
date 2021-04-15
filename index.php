@@ -32,7 +32,8 @@ error_reporting(E_ALL);
 
     printArr($numbers);
     largest($numbers);
-
+    //$uniqueArray = removeDups($numbers);
+    //echo "<p>$uniqueArray</p>";
 
 
 
